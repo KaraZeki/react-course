@@ -27,7 +27,9 @@
   border: none;
   background-color: rebeccapurple;
   color: white;
+  cursor: pointer;
 }
+
 .refleshDiv {
   text-align: center;
 }
